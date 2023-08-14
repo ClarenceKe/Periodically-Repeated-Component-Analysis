@@ -14,8 +14,6 @@
 % Ke, Yufeng; Liu, Shuang; Ming, Dong (2023). Enhancing SSVEP Identification with Less Individual Calibration Data 
 % Using Periodically Repeated Component Analysis. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.23674995.v1
 %%
-clear
-addpath 'MyProgram'
 
 clear
 % Please download the SSVEP benchmark dataset for this code
