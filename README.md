@@ -10,7 +10,7 @@ The TRCA Algorithm was adapted from https://github.com/edwin465/Comparison-betwe
 
 Please download the SSVEP benchmark dataset for this code: Wang, Y., et al. (2016). A benchmark dataset for SSVEP-based brain-computer interfaces. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 25(10), 1746-1752.
 
-#Contact:
+# Contact:
 This code is prepared by Yufeng Ke (clarenceke AT tju.edu.cn)
 Date: 22 July 2023 (v1.0)
 
