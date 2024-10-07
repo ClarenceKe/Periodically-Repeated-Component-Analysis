@@ -8,7 +8,7 @@
 % Date: 
 % 22 July 2023 (v1.0)
 
-% ThE TRCA Algorithm was adapted from https://github.com/edwin465/SSVEP-TRCA-R/tree/master
+% The TRCA Algorithm was adapted from https://github.com/edwin465/Comparison-between-two-implementation-approaches-of-TRCA-in-Matlab
 
 % if you use this code for a publication, please cite the following paper
 % Ke, Yufeng; Liu, Shuang; Ming, Dong (2023). Enhancing SSVEP Identification with Less Individual Calibration Data 
