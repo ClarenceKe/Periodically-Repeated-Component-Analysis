@@ -2,7 +2,7 @@
 
 % Please refer the following papers for more details:
 % Ke, Yufeng; Liu, Shuang; Ming, Dong (2023). Enhancing SSVEP Identification with Less Individual Calibration Data 
-% Using Periodically Repeated Component Analysis. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.23674995.v1
+% Using Periodically Repeated Component Analysis.  IEEE Transactions on Biomedical Engineering. 71(4): 1319 - 1331. https://doi.org/10.1109/TBME.2023.3333435
 
 % This code is prepared by Yufeng Ke (clarenceke AT tju.edu.cn)
 % Date: 
@@ -12,7 +12,7 @@
 
 % if you use this code for a publication, please cite the following paper
 % Ke, Yufeng; Liu, Shuang; Ming, Dong (2023). Enhancing SSVEP Identification with Less Individual Calibration Data 
-% Using Periodically Repeated Component Analysis. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.23674995.v1
+% Using Periodically Repeated Component Analysis.  IEEE Transactions on Biomedical Engineering. 71(4): 1319 - 1331. https://doi.org/10.1109/TBME.2023.3333435
 %%
 
 clear
