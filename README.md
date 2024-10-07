@@ -1,4 +1,4 @@
-# Periodically-Repeated-Component-Analysis
+# Periodically Repeated Component Analysis
 Demo code for the paper "Enhancing SSVEP Identification with Less Individual Calibration Data Using Periodically Repeated Component Analysis"
 
 This code shows how to use the Periodically Repeated Component Analysis for SSVEP recognition.
